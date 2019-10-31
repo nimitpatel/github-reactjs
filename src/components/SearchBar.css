@@ -1,0 +1,10 @@
+.searchbar {
+    width: 50%;
+    padding : 0 50px;
+}
+
+.searchbar input {
+    width: 100%;
+    padding: 10px;
+    font-size: 1.2rem;
+}
